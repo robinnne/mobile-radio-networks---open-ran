@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -g -O0  -L/usr/local/lib -lprotobuf-c -rdynamic CMakeFiles/gnb_e2server_emu.dir/gnb_e2server_emu.c.o CMakeFiles/gnb_e2server_emu.dir/oai-oran-protolib/builds/ran_messages.pb-c.c.o CMakeFiles/gnb_e2server_emu.dir/gnb_message_handlers.c.o  -o gnb_e2server_emu  -lprotobuf-c 
